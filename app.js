@@ -23,7 +23,7 @@ for(let select of dropdowns){
 
 const updateFlag = (element) =>{
     let currCode =element.value;
-    console.log(currCode);
+    
     
 };
 
